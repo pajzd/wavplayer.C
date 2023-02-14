@@ -1,16 +1,15 @@
 # wavplayer.C
-<sup> a little wave player in C </br>
+<sup> a little wave player in C </br></sup>
 
-=>>> a little permutation to C from C++ </br>
-as seen here : https://www.youtube.com/watch?v=6IX6873J1Y8&list=PLEETnX-uPtBVpZvp-R2daNfy9k3-L-Q3u&index=3
+<sup> =>>> a little permutation to C from C++ </br> </sup>
+<sup>as seen here : https://www.youtube.com/watch?v=6IX6873J1Y8&list=PLEETnX-uPtBVpZvp-R2daNfy9k3-L-Q3u&index=3 </sup>
 
-Kind Regards to Benny Blanco </br>
-& @OsmondFung >>> who stated ::: I wish this code was in C
+<sup>Kind Regards to Benny Blanco </br></sup>
+<sup>& @OsmondFung >>> who stated ::: I wish this code was in C</sup>
 
-post 7 anni his wet dreams came (TRUE)
+<sup>post 7 anni his wet dreams came (TRUE)</sup>
 
-anything is possible in life !
+<sup>anything is possible in life !</sup>
 
-<marquee>Never stop dreamin' !!!    !     !      !! </br></marquee>
-cheerios !
-</sup>
+<sup><marquee>Never stop dreamin' !!!    !     !      !! </br></marquee></sup>
+<sup>cheerios !</sup>
