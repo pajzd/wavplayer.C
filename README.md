@@ -1,5 +1,6 @@
 # wavplayer.C
-a little wave player in C \n
+a little wave player in C </br>
+
 =>>> a little permutation to C from C++
 as seen here : https://www.youtube.com/watch?v=6IX6873J1Y8&list=PLEETnX-uPtBVpZvp-R2daNfy9k3-L-Q3u&index=3
 
