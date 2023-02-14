@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <SDL2/SDL.h>
 
-#define FILE_PATH "/Users/lesupralittoralofbrownnoise/Desktop/vietnamese/MixPre-095.WAV"
+#define FILE_PATH "/Desktop/vietnamese/MixPre-095.WAV" // just any .wav file onto your komput'r
 
 // a structure = array of different datatypes
 
@@ -72,7 +72,7 @@ int main(int argc, char **argv)
 
     printf("File: %s has been loaded successfully!\n", FILE_PATH);
 
-    // speelt de eigenlijk audio met SDL_PauseAudioDevice :) !!!
+    // play the actual audio with SDL_PauseAudioDevice :) !!!
 
     SDL_PauseAudioDevice(device, 0);
 
